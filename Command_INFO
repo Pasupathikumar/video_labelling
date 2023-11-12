@@ -1,0 +1,22 @@
+Command to run Video labeling:
+
+ python3 main.py -i videos -o output -t 2 --tracker KCF -n 200
+
+
+
+
+a & d: previous frame and next frame
+
+w & s: next and previous class
+
+
+p: after marking labels press p to continue the object tracking.
+
+
+q: quit
+
+
+right click mouse to delete the wrong labels
+
+
+
